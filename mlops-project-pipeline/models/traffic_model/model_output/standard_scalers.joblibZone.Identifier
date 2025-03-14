@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:8888/lab/tree/01_traffic_model_training_xgboost.ipynb
+HostUrl=http://127.0.0.1:8888/files/mp_model_output/standard_scalers.joblib?_xsrf=2%7C7dd9d6a0%7C60fb0831a9fff78af6825e6b221133b5%7C1728749299
